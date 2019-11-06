@@ -1,0 +1,26 @@
+.t-50{
+			font-size: 50px;
+		}
+		.bg-f2f2{
+			background-color: #f2f2f2;
+		}
+		.bor-left{
+			border-left: 5px solid #0099FF;
+		}
+		.box-s{
+			box-shadow: 0px 5px 5px #888888;
+		}
+		.bor-r50{
+			border-radius: 50px;
+		}
+		.img-bg{
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;
+			padding-bottom: 150px;
+		}
+	.pos-rg{
+		position: relative;
+		bottom: 20px;
+		left: 55px;
+	}
